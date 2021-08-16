@@ -1,11 +1,11 @@
 {
-    "name": "test_flutter_2",
-    "short_name": "test_flutter_2",
+    "name": "notepad_super",
+    "short_name": "notepad_super",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "Test project from Udemy.",
+    "description": "A new Flutter project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
